@@ -1,0 +1,5 @@
+print("GREETING CARD")
+print("Name:Anna Diya Saji")
+print("favourite quote:A friend in need is a friend indeed")
+print("hobby:dancing")
+print("paragraph:My  is Anna Diya Saji.I'm from aymanam .I'm studying in Saintgits college and studying integrated mca." )
